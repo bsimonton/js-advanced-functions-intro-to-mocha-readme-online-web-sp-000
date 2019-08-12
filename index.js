@@ -18,3 +18,6 @@ function shouting(string){
   return string.toUpperCase();
 }
 
+function roundDown(num){
+  return math.floor
+}
